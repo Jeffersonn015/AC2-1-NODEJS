@@ -31,6 +31,8 @@ Este projeto foi desenvolvido como parte da **Atividade AC2** da disciplina de D
     - Endpoint: : /professores/:id
     - Descrição:  Permite atualizar as informações de um professor específico, como nome, idade e departamento. Se for informado um id inválido retornar “Id não existente”
       ![Imagem do WhatsApp de 2025-11-10 à(s) 20 19 32_3842f8d7](https://github.com/user-attachments/assets/f6538958-5aa0-4a4d-86c9-e19c56baad19)
+      <img width="1296" height="830" alt="image" src="https://github.com/user-attachments/assets/04fee702-8ae0-4cb7-9276-671a9d9eaa58" />
+
 
 
  -  **Adicionar uma turma para um professor**
